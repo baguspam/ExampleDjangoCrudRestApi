@@ -6,18 +6,18 @@ Step instalasi :
 - Download Visual Studio Code + install plugin Django
 - Open project
 - New terminal ->
-  python -m venv env
-  env\Scripts\activate.bat
-  pip install -r requirements.txt
-  python manage.py runserver
-  username: admin && password: admin
+<br/>python -m venv env
+<br/>env\Scripts\activate.bat
+<br/>pip install -r requirements.txt
+<br/>python manage.py runserver
+<br/>username: admin && password: admin
 - Jika tidak bisa login
-  python manage.py createsuperuser
-  python manage.py makemigrations
-  python manage.py migrate
-  python manage.py runserver
+<br/>python manage.py createsuperuser
+<br/>python manage.py makemigrations
+<br/>python manage.py migrate
+<br/>python manage.py runserver
 
-Link cek rest api
-- 127.0.0.1:8000/api/buku
-- 127.0.0.1:8000/api/mahasiswa
-- 127.0.0.1:8000/api/pinjam
+Link cek rest api:
+<br/>- 127.0.0.1:8000/api/buku/
+<br/>- 127.0.0.1:8000/api/mahasiswa/
+<br/>- 127.0.0.1:8000/api/pinjam/
