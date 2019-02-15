@@ -1,5 +1,5 @@
 Example Crud Django Admin dengan Django Rest Framework
-https://djangomz.herokuapp.com
+
 
 Step instalasi :
 - Git clone dulu repositorynya
