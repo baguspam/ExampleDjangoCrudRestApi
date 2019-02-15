@@ -9,6 +9,8 @@ Step instalasi :
 <br/>python -m venv env
 <br/>env\Scripts\activate.bat
 <br/>pip install -r requirements.txt
+<br/>pip install gunicorn
+<br/>pip install django-heroku
 <br/>python manage.py runserver
 <br/>username: admin && password: admin
 - Jika tidak bisa login
